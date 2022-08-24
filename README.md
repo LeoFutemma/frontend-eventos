@@ -6,6 +6,7 @@
 Exercício proposto pela [Cubos Academy](https://cubos.academy/sucesso), tem como objetivo praticar a utilização de eventos.
 
 :desktop_computer: Tecnologias usadas
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
